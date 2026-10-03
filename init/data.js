@@ -349,4 +349,4 @@ const sampleListings = [
   },
 ];
 
-module.exports = { data: sampleListings };
+modules.exports = { data: sampleListings };
